@@ -1,16 +1,11 @@
-# mi_app_personal
+# Mi App Personal - Flutter
 
-A new Flutter project.
+Aplicación personal desarrollada en Flutter con 3 pantallas estáticas.
 
-## Getting Started
+## Pantallas
+- **Inicio**: Pantalla de bienvenida
+- **Perfil**: Información personal y contacto  
+- **Hobbies**: Lista de actividades favoritas
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instrucciones
+Para cambiar entre pantallas, editar la línea 17 de `main.dart` y usar Hot Reload (r).
